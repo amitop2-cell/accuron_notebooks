@@ -8,7 +8,7 @@
   --dark-text: #f5e6da;
 }
 
-/* ===== BASE ===== */
+
 body {
   margin: 0;
   font-family: 'Inter', sans-serif;
@@ -22,7 +22,6 @@ body.dark {
   color: var(--dark-text);
 }
 
-/* ===== HEADER ===== */
 header {
   background: var(--primary);
   display: flex;
