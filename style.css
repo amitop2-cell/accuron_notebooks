@@ -91,7 +91,7 @@ body.dark .switch::before {
       rgba(11, 60, 93, 0.7),
       rgba(11, 60, 93, 0.4)
     ),
-    url('images/banner.jpg') center/cover no-repeat;
+    url('banner.jpg') center/cover no-repeat;
 
   display: flex;
   align-items: center;
@@ -107,7 +107,7 @@ body.dark .switch::before {
   font-size: 56px;
 }
 
-/* POSTERS */
+
 .poster {
   width: 100%;
   height: 50vw;
