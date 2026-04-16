@@ -85,18 +85,7 @@ body.dark .switch::before {
   background: orange;
 }
 
-.hero {
-  height: 550px;
-  background: linear-gradient(
-      rgba(11, 60, 93, 0.7),
-      rgba(11, 60, 93, 0.4)
-    ),
-    url('banner.jpg') center/cover no-repeat;
 
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 
 .hero-content {
   text-align: center;
